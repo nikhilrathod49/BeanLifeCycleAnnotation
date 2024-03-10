@@ -1,0 +1,7 @@
+com\spring\student\Main.class
+com\spring\student\MainPrePostProcessor.class
+com\spring\student\MainInitDestroy.class
+com\spring\student\StuentInitDestroy.class
+com\spring\student\BeanConfig.class
+com\spring\student\Student.class
+com\spring\student\StuentPrePostProcessor.class
